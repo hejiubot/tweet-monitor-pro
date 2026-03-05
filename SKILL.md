@@ -7,6 +7,9 @@ description: Fetch X/Twitter tweets, replies, and timelines without login or API
 
 Commercial X/Twitter scraping skill for OpenClaw. No login, no API keys required.
 
+**🔧 GitHub:** [https://github.com/hejiubot/tweet-monitor-pro](https://github.com/hejiubot/tweet-monitor-pro)
+**📦 ClawHub:** [https://clawhub.com/skills/tweet-monitor-pro](https://clawhub.com/skills/tweet-monitor-pro)
+
 ## Features
 
 ✅ **Zero-dependency basics**: Fetch single tweets without Camofox  

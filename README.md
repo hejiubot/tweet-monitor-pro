@@ -2,6 +2,10 @@
 
 Commercial X/Twitter scraping skill for OpenClaw. No login, no API keys required.
 
+**📖 Documentation:** [English](README.md) | [中文](README.zh.md)  
+**🔧 GitHub:** [https://github.com/hejiubot/tweet-monitor-pro](https://github.com/hejiubot/tweet-monitor-pro)
+**📦 ClawHub:** [https://clawhub.com/skills/tweet-monitor-pro](https://clawhub.com/skills/tweet-monitor-pro)
+
 ## Features
 
 ✅ **Zero-dependency basics**: Fetch single tweets without Camofox  
@@ -12,13 +16,37 @@ Commercial X/Twitter scraping skill for OpenClaw. No login, no API keys required
 
 ---
 
-## Subscription Plans
+## Pricing & Billing
 
-| Plan | Price/Month | Quota | Features |
-|------|-------------|-------|----------|
-| Free | $0 | 10 calls | Single tweet fetch |
-| Pro | $1.9 | 1,000 calls | All basic + timelines + replies + search |
-| Business | $9.9 | Unlimited | Everything + API access + priority support |
+**We offer two billing models:**
+
+### Model A: Local Quota (Default)
+- ✅ No external dependencies
+- ✅ New users get **10 free tokens**
+- ✅ Each API call consumes 1 token
+- ✅ Admin can manually recharge via `addCredits`
+- ✅ Simple JSON-based storage
+
+### Model B: SkillPay (Optional)
+- 🔄 Automatic billing via [SkillPay](https://skillpay.me)
+- 💰 1 USDT = 1000 tokens
+- 💳 Users top-up and pay-per-use
+- 📊 Real-time balance tracking
+- 🔑 You earn 95% of充值金额
+
+**To enable SkillPay:** Set `SKILLPAY_API_KEY` and `SKILLPAY_SKILL_ID` environment variables.
+
+---
+
+## Subscription Plans (Local Quota)
+
+| Plan | Price (One-time) | Tokens | Features |
+|------|------------------|--------|----------|
+| Free | $0 | 10 | Single tweet fetch |
+| Pro | $1.9 | 1,000 | All basic + timelines + replies + search |
+| Business | $9.9 | 10,000 | Everything + unlimited + priority support |
+
+Purchase a plan to get tokens. Each API call consumes 1 token.
 
 ---
 
