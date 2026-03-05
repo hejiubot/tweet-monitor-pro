@@ -1,0 +1,26 @@
+{
+  "test_skillpay": {
+    "plan": "free",
+    "createdAt": "2026-03-05T14:13:35.471Z",
+    "balance": 10,
+    "totalCharged": 0
+  },
+  "test_user_1772720022176": {
+    "plan": "free",
+    "createdAt": "2026-03-05T14:13:42.176Z",
+    "balance": 0,
+    "totalCharged": 0
+  },
+  "test_1772720056238": {
+    "plan": "free",
+    "createdAt": "2026-03-05T14:14:16.238Z",
+    "balance": 0,
+    "totalCharged": 0
+  },
+  "test_1772720424473": {
+    "plan": "free",
+    "createdAt": "2026-03-05T14:20:24.474Z",
+    "balance": 9,
+    "totalCharged": 0
+  }
+}
